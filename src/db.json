@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "cc18",
+      "name": "pane",
+      "completed": false
+    },
+    {
+      "id": "1cdf",
+      "name": "carne",
+      "completed": false
+    },
+    {
+      "id": "09bb",
+      "name": "latte",
+      "completed": false
+    },
+    {
+      "id": "a016",
+      "name": "uova",
+      "completed": false
+    }
+  ]
+}
